@@ -1,6 +1,6 @@
-// Barkha Kumari
-// 24070123029
-// EnTC A1
+// Name: Dhruv Jain
+// PRN: 24070123042
+// Branch: EnTC A1
 
 #include <iostream>
 #include <algorithm>   // for std::find
